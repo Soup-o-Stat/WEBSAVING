@@ -18,8 +18,8 @@ WEBSAVING is a Python-based application designed to synchronize save files for t
 1) Clone this repository
 
 ```
-git clone https://github.com/Soup-o-Stat/my_webfishing_save_files.git
-cd my_webfishing_save_files
+$ git clone https://github.com/Soup-o-Stat/WEBSAVING.git
+Cloning into 'WEBSAVING'...
 ```
 
 2) Run WEBSAVING.exe
