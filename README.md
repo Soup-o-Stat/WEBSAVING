@@ -19,7 +19,6 @@ WEBSAVING is a Python-based application designed to synchronize save files for t
 
 ```
 $ git clone https://github.com/Soup-o-Stat/WEBSAVING.git
-Cloning into 'WEBSAVING'...
 ```
 
 2) Run WEBSAVING.exe
